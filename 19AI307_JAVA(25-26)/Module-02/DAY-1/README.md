@@ -22,8 +22,8 @@ To create a Car class with attributes brand, color, and year, and display detail
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Santhosh S
-RegisterNumber: 212222220039
+Developed by: Sujithra D
+RegisterNumber: 212222220052
 */
 ```
 
@@ -78,5 +78,6 @@ class prog {
 
 ## RESULT:
 The Car class was successfully implemented with attributes brand, color, and year. Two objects were created and their details were displayed correctly, confirming proper class functionality.
+
 
 
