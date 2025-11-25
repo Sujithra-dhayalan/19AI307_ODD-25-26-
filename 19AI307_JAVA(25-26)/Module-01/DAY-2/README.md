@@ -1,10 +1,10 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
-
+Write a Java program to check how strong is the given code. 
 
 ## AIM:
-
+To write a Java program to check how strong is the given code. 
 
 ## ALGORITHM :
 1.	Start the program.
@@ -58,4 +58,5 @@ class prog{
 
 ## RESULT:
 The Java program successfully implements the code logic and produces correct outputs for all test cases as per the given rules.
+
 
